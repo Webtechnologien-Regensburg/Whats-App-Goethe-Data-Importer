@@ -6,7 +6,7 @@ Mit diesem Skript können Sie den Import der im *JSON*-Format vorliegenden Brief
 
 ## Grundlagen
 
-Der Skript funktioniert mit den JSON-formatierten Brief- und Biopgraphie-Dateien, die wir Ihnen in einem separaten Datensatz bereitgestellt haben. Die Inhalte sind dabei nach diesem Schema aufgebaut:
+Der Skript funktioniert mit den JSON-formatierten Brief- und Biopgraphie-Dateien, die wir Ihnen in [einem separaten Datensatz](https://files.mi.ur.de/f/182542f1081d4df8b99a/?dl=1) bereitgestellt haben. Die Inhalte sind dabei nach diesem Schema aufgebaut:
 
 ### Letter
 
@@ -37,7 +37,7 @@ Der Skript funktioniert mit den JSON-formatierten Brief- und Biopgraphie-Dateien
 
 - Laden Sie den Quellcode über [diesen Link](https://github.com/Webtechnologien-Regensburg/Whats-App-Goethe-Data-Importer/archive/master.zip) herunter. 
 - Führen Sie im Projektverzeichnis, in einer Kommandozeile, den Befehl `npm install` aus, um alle notwendigen Abhängigkeiten zu installieren.
-- Erstellen Sie einen Ordner `data` im Projektverzeichnis und kopieren Sie die bereitgestellten JSON-Dateien dort hinein. Briefe und Biographien werden in separaten Unterordnern `letters` und `people` abgelegt.
+- Erstellen Sie einen Ordner `data` im Projektverzeichnis und kopieren Sie die [bereitgestellten JSON-Dateien](https://files.mi.ur.de/f/182542f1081d4df8b99a/?dl=1) dort hinein. Briefe und Biographien werden dabei in separaten Unterordnern `letters` und `people` abgelegt.
 
 ## Starten des Import-Skripts
 
